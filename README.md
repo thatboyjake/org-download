@@ -1,5 +1,7 @@
 # org-download
 
+THIS IS A PERSONAL FORK AIMED TO BE MORE MAINTAINED THAN THE ORIGINAL ONLY USE IF ORIGINAL DOSEN'T HAVE PR MERGED
+
 [![MELPA](https://melpa.org/packages/org-download-badge.svg)](https://melpa.org/#/org-download)
 [![MELPA Stable](https://stable.melpa.org/packages/org-download-badge.svg)](https://stable.melpa.org/#/org-download)
 
